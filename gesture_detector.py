@@ -22,11 +22,11 @@ class GestureDetector:
                 dx = mx - ix
                 dy = my - iy
 
-                if abs(dy) < 0.02 and dx < -0.05:
-                    gesture = 'stir'
-                elif dy < -0.05:
-                    gesture = 'flip'
-                elif dx > 0.05:
+                if dx > 0.05 and abs(dy) < 0.08:
                     gesture = 'pour'
+                elif dx < -0.05 and abs(dy) < 0.08:
+                    gesture = 'stir'
+                elif dy < -0.07 and abs(dx) < 0.04:
+                    gesture = 'flip'
 
         return gesture
