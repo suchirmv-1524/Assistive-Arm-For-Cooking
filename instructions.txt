@@ -1,0 +1,16 @@
+To perform each action:
+Stir:
+Hold your index and middle fingers close together
+Keep them at the same height
+The green line should be short
+Hold for 1 second until the progress bar fills
+Flip:
+Spread your index and middle fingers horizontally
+Keep them at the same height
+The green line should be long and horizontal
+Hold for 1 second until the progress bar fills
+Pour:
+Spread your index and middle fingers vertically
+One finger higher than the other
+The green line should be long and vertical
+Hold for 1 second until the progress bar fills
