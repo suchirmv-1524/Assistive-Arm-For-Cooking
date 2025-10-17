@@ -1,9 +1,9 @@
-<h1 align="center">🤖 ServeSaute : Assistive Arm for Cooking 🍳</h1>
+<h1 align="center">🤖 ServoSaute : Assistive Arm for Cooking 🍳</h1>
 
-ServeSaute is an assistive robotic arm capable of performing **stirring**, **flipping**, and **pouring** actions based on **hand gestures** recognized via webcam. Using **MediaPipe** for gesture detection and **PyBullet** for real-time physics simulation, the robotic arm mimics actions useful in a kitchen setting.
+ServoSaute is an assistive robotic arm capable of performing **stirring**, **flipping**, and **pouring** actions based on **hand gestures** recognized via webcam. Using **MediaPipe** for gesture detection and **PyBullet** for real-time physics simulation, the robotic arm mimics actions useful in a kitchen setting.
 
 ## 📁 Directory Structure
-ServeSaute/ <br/>
+ServoSaute/ <br/>
 ├── gesture_arm_control.py<br/>
 ├── instructions.txt <br/>
 ├── model.urdf <br/>
@@ -33,7 +33,7 @@ ServeSaute/ <br/>
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/suchirmv-1524/ServeSaute.git
+   git clone https://github.com/suchirmv-1524/ServoSaute.git
    cd Assistive-Arm-For-Cooking
    ```
 
